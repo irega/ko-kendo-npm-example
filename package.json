@@ -1,14 +1,11 @@
 {
   "name": "ko-kendo-npm-example",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A basic example of how to use ko-kendo with the kendo npm package, typescript and webpack",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack-dev-server --inline --open"
   },
-  "keywords": [],
-  "author": "",
   "license": "MIT",
   "dependencies": {
     "@progress/kendo-ui": "^2017.1.216",
